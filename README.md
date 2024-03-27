@@ -1,4 +1,4 @@
-# modeling_information-diffusion-on-twitter
+# information-diffusion-on-twitter
 This repository hosts my master's thesis project.
 
 Author: Ekin Derdiyok
