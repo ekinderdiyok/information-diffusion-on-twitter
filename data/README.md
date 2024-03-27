@@ -1,1 +1,3 @@
 Please download the rest of the data from here: https://zenodo.org/records/2587475 `Nepal_2015_earthquake.zip` and put them in the same folder with your code file.
+
+My repository includes an extra file `cascades.csv` which has information on topic and semantic category of each tweet, as well as total retweet count and full text of each cascade. These information had to be saved because the former two costs OpenAI credits, and the latter two was manual labor (not reproducible by code).
