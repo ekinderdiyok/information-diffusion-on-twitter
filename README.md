@@ -12,6 +12,8 @@
 
 **Recommendations:** Contrary to common perception, most popular tweets are not viral, but broadcast events. The use of epidemiological models are discouraged. The first two hours of a tweet are vital. LLMs are a good alternative NLP method.
 
+![Retweeter Network](figures/retweeter_network2.png)
+
 This repository hosts the code and manuscript of my master's thesis project with the abovementioned title.
 
 ## Abstract (Scientific)
